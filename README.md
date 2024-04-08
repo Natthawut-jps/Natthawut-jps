@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## preview web Shop-Organic
-## https://shop-organic-ecommerce.onrender.com
+## preview web Shop-Organic : https://shop-organic-ecommerce.onrender.com
 
+## preview admin dashboad : https://dashboadadmin-shop-organic.onrender.com/admin/login
 <!--
 **Natthawut-jps/Natthawut-jps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
