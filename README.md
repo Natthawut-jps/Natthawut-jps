@@ -1,9 +1,10 @@
 ### Hi there 👋
 ## Project > Shop-Organic ##
-* Shop-Organic : https://github.com/Natthawut-jps/Shop-Organic-eCommerce
+* Shop-Organic : https://github.com/Natthawut-jps/Shop-Organic
 * admin dashboad "shop-organic" : https://github.com/Natthawut-jps/DashboadAdmin-Shop-Organic
-* api "shop-organic" : https://github.com/Natthawut-jps/API-ShopOrganic-eCommerce
+* api "shop-organic" : https://github.com/Natthawut-jps/API-ShopOrganic
 ## Project > Coffee ##
+* Coffee : https://github.com/Natthawut-jps/Mangatement-system-coffee-shop
 <!--
 **Natthawut-jps/Natthawut-jps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
