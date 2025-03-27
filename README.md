@@ -1,9 +1,7 @@
 ### Hi there 👋
 ## Project > Shop-Organic ##
-* Shop-Organic : https://github.com/Natthawut-jps/Shop-Organic
-* admin dashboad "shop-organic" : https://github.com/Natthawut-jps/DashboadAdmin-Shop-Organic
-* api "shop-organic" : https://github.com/Natthawut-jps/API-ShopOrganic
-
+* shoporganic.com : https://github.com/Natthawut-jps/shoporganic.com
+* momomanga.com : https://github.com/Natthawut-jps/momomanga.com
 <!--
 **Natthawut-jps/Natthawut-jps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
