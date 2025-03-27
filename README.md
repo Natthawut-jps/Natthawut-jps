@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Project > Shop-Organic ##
+## Project ##
 * shoporganic.com : https://github.com/Natthawut-jps/shoporganic.com
 * momomanga.com : https://github.com/Natthawut-jps/momomanga.com
 <!--
