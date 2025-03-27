@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Project ##
-* shoporganic.com : https://github.com/Natthawut-jps/shoporganic.com
-* momomanga.com : https://github.com/Natthawut-jps/momomanga.com
+* shoporganic : https://github.com/Natthawut-jps/shoporganic.com
+* momomanga : https://github.com/Natthawut-jps/momomanga.com
 <!--
 **Natthawut-jps/Natthawut-jps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
